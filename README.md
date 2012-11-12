@@ -8,3 +8,5 @@ All examples have the follow information:
 * Documented code
 * Screenshots
 * Reference API link inside the code
+
+For more information go to https://github.com/rodrigopex/BB10Samples/wiki
